@@ -1,0 +1,19 @@
+{
+    "title": "Registration",
+    "form_hint": "Please fill in the form to register",
+    "name": "Name",
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "register": "Register",
+    "name_required": "Name is required",
+    "email_required": "Email is required",
+    "invalid_email": "Invalid email format",
+    "username_required": "Username is required",
+    "password_required": "Password is required",
+    "password_length": "Password must be at least 6 characters",
+    "password_mismatch": "Passwords do not match",
+    "success": "Registration successful"
+  }
+  
